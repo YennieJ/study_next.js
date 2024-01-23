@@ -9,6 +9,26 @@
       "id": 2,
       "title": "css",
       "body": "css is ..."
+    },
+    {
+      "title": "JS",
+      "body": "JS is ...",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "body": "React is ...",
+      "id": 4
+    },
+    {
+      "title": "Java",
+      "body": "Java is ...",
+      "id": 5
+    },
+    {
+      "title": "Next.js",
+      "body": "Next.js is ...",
+      "id": 6
     }
   ],
   "posts": [
