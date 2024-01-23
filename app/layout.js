@@ -14,6 +14,9 @@ export default function RootLayout({ children }) {
         </h1>
         <ol>
           <li>
+            <a href="/read">parms 없이</a>
+          </li>
+          <li>
             <a href="/read/1">html</a>
           </li>
           <li>
