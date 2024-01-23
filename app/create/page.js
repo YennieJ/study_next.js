@@ -22,9 +22,9 @@ export default function Create() {
         fetch(`http://localhost:9999/topics`, options)
           .then((res) => res.json())
           .then((result) => {
-            console.log(result);
             const lastId = result.id;
             router.push(`/read/${lastId}`);
+            router.refresh();
           });
       }}
     >
